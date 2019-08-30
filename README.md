@@ -1,2 +1,2 @@
 # sketchpad
-Simple sketch application that allows you to draw and change colors with a click of the mouse.
+Simple sketch application that allows you to doodle and change colors with a click.
